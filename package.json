@@ -1,0 +1,14 @@
+{
+  "name": "currencyconverter_v01",
+  "version": "1.0.0",
+  "description": "to convert the currency",
+  "main": "sw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "benyahia",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.1.1"
+  }
+}
